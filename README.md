@@ -24,6 +24,6 @@ HTML • CSS • JavaScript • Responsive Web Design • Git • GitHub
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/marwan-abosalem-4783263a5/)
-- [GitHub](https://github.com/9mtg6)
+- [GitHub](https://github.com/itsengmarwan)
 
 Thanks for visiting my profile!
