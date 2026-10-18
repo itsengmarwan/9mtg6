@@ -16,9 +16,9 @@ HTML • CSS • JavaScript • Responsive Web Design • Git • GitHub
 ## Selected projects
 
 - [Just Ask](https://just-ask-swart.vercel.app/) — A user-friendly web experience built with a focus on practical front-end development.
-- [Free Learn Coding](https://free-learn-coding.netlify.app/) — A simple platform for practicing coding and exploring web development.
-- [MTG Store](https://mtgstore.netlify.app/) — A responsive e-commerce interface with a clean product browsing experience.
-- [Nora Mosque](https://noramosque.netlify.app/) — A voluntary project created to provide useful Islamic content through a simple interface.
+- [Free Learn Coding](https://itsengmarwan.github.io/Learn-Coding/) — A simple platform for practicing coding and exploring web development.
+- [MTG Store](https://itsengmarwan.github.io/MTG-STORE/) — A responsive e-commerce interface with a clean product browsing experience.
+- [Nora Mosque](https://itsengmarwan.github.io/Nora-Mosque/) — A voluntary project created to provide useful Islamic content through a simple interface.
 - [Alazkar](https://alazkar.netlify.app/) — A web application for daily Azkar and Islamic reminders.
 
 ## Connect with me
